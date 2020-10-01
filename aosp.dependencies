@@ -11,11 +11,13 @@
     "target_path" : "prebuilts/clang/host/linux-x86/clang-proton"
   },
   {
-    "repository"  : "kernel_oneplus_sdm845",
+    "repository"  : "Justasic/kernel_oneplus_sdm845",
+    "remote"      : "github",
     "target_path" : "kernel/oneplus/sdm845"
   },
   {
-    "repository"  : "vendor_addons_google_camera",
+    "repository"  : "Justasic/vendor_google_camera",
+    "remote"      : "github",
     "target_path" : "vendor/addons/google/camera"
   },
   {
